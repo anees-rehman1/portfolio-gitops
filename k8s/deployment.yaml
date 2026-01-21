@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: shadow1234090/portfolio-website:v1
+          image: shadow1234090/portfolio-website:v2
           ports:
             - containerPort: 80
